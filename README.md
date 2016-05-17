@@ -18,4 +18,6 @@ This repository provides preprocessing and some of the analysis scripts for the 
 
 The dPCA code is located at https://github.com/machenslab/dPCA.
 
-Note (May 2016): The scripts are currently provided as is, but will be adapted during May and June 2016 to be more readable.
+-----------
+
+**Note (May 2016):** The scripts are currently provided as is, but will be adapted during May and June 2016 to be more readable.
