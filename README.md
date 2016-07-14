@@ -16,8 +16,8 @@ This repository provides preprocessing and some of the analysis scripts for the 
 3. https://crcns.org/data-sets/ofc/ofc-1
 4. https://crcns.org/data-sets/ofc/ofc-2
 
-The dPCA code is located at https://github.com/machenslab/dPCA.
+The dPCA toolkit is located at https://github.com/machenslab/dPCA.
 
 -----------
 
-**Note (May 2016):** The scripts are currently provided as is, but will be adapted during May and June 2016 to be more readable.
+**Note (May 2016):** The scripts are currently provided as is, but will be adapted during summer 2016 to be more readable.
