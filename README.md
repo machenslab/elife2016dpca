@@ -21,3 +21,5 @@ The dPCA toolkit is located at https://github.com/machenslab/dPCA.
 -----------
 
 **Note (May 2016):** The scripts are currently provided as is, but will be adapted during summer 2016 to be more readable.
+
+**Update (Jul 15, 2016):** The scripts processing the Romo dataset are ready.
